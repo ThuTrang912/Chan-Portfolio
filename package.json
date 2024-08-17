@@ -21,7 +21,7 @@
     "react-tsparticles": "^2.12.2",
     "typewriter-effect": "^2.21.0",
     "web-vitals": "^2.1.4",
-    "homepage": "https://ThuTrang912.github.io//Chan-Portfolio"
+    "homepage": "https://ThuTrang912.github.io/Chan-Portfolio"
   },
   "scripts": {
     "start": "react-scripts start",
