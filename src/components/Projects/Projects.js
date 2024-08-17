@@ -22,12 +22,12 @@ function Projects() {
         <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require('./../../Assets/MeiMei.png')}
+              imgPath={require('./../../Assets/SmartTripod.png')}
               isBlog={false}
-              title="MeiMei"
-              description="NFC business cards eliminate the hassle of carrying multiple paper cards and reduce printing costs."
-              ghLink="https://github.com/ThuTrang912/MeiMei"
-              detailComponent={<MeiMei />}
+              title="SmartTripod"
+              description="The AI-based automatic tracking camera system reduces the burden of manual operation in capturing sports."
+              ghLink="https://github.com/ThuTrang912/SmartTripod"
+              detailComponent={<SmartTripod />}
             />
           </Col>
 
@@ -44,12 +44,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require('./../../Assets/SmartTripod.png')}
+              imgPath={require('./../../Assets/MeiMei.png')}
               isBlog={false}
-              title="SmartTripod"
-              description="The AI-based automatic tracking camera system reduces the burden of manual operation in capturing sports."
-              ghLink="https://github.com/ThuTrang912/SmartTripod"
-              detailComponent={<SmartTripod />}
+              title="MeiMei"
+              description="NFC business cards eliminate the hassle of carrying multiple paper cards and reduce printing costs."
+              ghLink="https://github.com/ThuTrang912/MeiMei"
+              detailComponent={<MeiMei />}
             />
           </Col>
 
