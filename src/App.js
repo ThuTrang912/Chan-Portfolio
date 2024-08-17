@@ -18,18 +18,18 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
-  const [load, updateLoad] = useState(true);
+  const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      updateLoad(false);
+      upadateLoad(false);
     }, 1200);
 
     return () => clearTimeout(timer);
   }, []);
 
   return (
-    <Router basename="/Chan-Portfolio">
+    <Router>
       <Preloader load={load} />
       <div className="App" id={load ? 'no-scroll' : 'scroll'}>
         <Navbar />
