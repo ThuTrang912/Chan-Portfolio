@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82408596.css",
-    "main.js": "/static/js/main.68153d0b.js",
+    "main.js": "/static/js/main.8ce82ac3.js",
     "static/js/453.f7bb8108.chunk.js": "/static/js/453.f7bb8108.chunk.js",
     "static/media/SmartTripod.png": "/static/media/SmartTripod.19067d2dde73df149825.png",
     "static/media/MemoryGame.png": "/static/media/MemoryGame.2a77e9a86f7380bf8578.png",
@@ -18,11 +18,11 @@
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.0aa3e07f821474295edc6b63fc3564b3.svg",
     "main.82408596.css.map": "/static/css/main.82408596.css.map",
-    "main.68153d0b.js.map": "/static/js/main.68153d0b.js.map",
+    "main.8ce82ac3.js.map": "/static/js/main.8ce82ac3.js.map",
     "453.f7bb8108.chunk.js.map": "/static/js/453.f7bb8108.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82408596.css",
-    "static/js/main.68153d0b.js"
+    "static/js/main.8ce82ac3.js"
   ]
 }
