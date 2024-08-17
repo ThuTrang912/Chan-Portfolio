@@ -1,0 +1,24 @@
+(function (d, s, id, src) {
+  var js,
+    fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id) || src.startsWith('$')) {
+    return;
+  }
+  js = d.createElement(s);
+  js.id = id;
+  js.src = src;
+  fjs.parentNode.insertBefore(js, fjs);
+})(document, 'script', 'editor2-js', 'https://cdn.venngage.com/editor2/86187e277d3fd7f724bc6023f26e04602661e49a/static/js/main.1f30f655.js');
+
+(function (d, id, href) {
+  var ln,
+    fjs = d.getElementsByTagName('script')[0];
+  if (d.getElementById(id) || href.startsWith('$')) {
+    return;
+  }
+  ln = d.createElement('link');
+  ln.id = id;
+  ln.href = href;
+  ln.rel = 'stylesheet';
+  fjs.parentNode.insertBefore(ln, fjs);
+})(document, 'editor2-css', 'https://cdn.venngage.com/editor2/86187e277d3fd7f724bc6023f26e04602661e49a/static/css/main.13cae364.css');

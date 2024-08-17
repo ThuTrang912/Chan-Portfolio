@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Raleway', serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(
+    to left,
+    rgba(0, 25, 50, 0.9),
+    rgba(0, 10, 20, 0.9)
+  ); /* Màu xanh sậm gần đen */
+}
