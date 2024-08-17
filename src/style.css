@@ -479,6 +479,18 @@ button:focus {
   box-shadow: 0 4px 4px 5px rgba(0, 170, 255, 0.561) !important;
 }
 
+.modal-fullscreen {
+  height: 100vh; /* Chiều cao đầy đủ */
+  margin: 0; /* Bỏ margin */
+}
+
+.modal-body-scroll {
+  max-height: calc(
+    100vh - 150px
+  ); /* Chiều cao tối đa cho phần nội dung (điều chỉnh theo nhu cầu) */
+  overflow-y: auto; /* Thêm thanh cuộn dọc */
+}
+
 .blog-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;

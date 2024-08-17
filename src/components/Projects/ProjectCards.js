@@ -6,7 +6,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function ProjectCards(props) {
   const [showModal, setShowModal] = useState(false);
-
   const handleClose = () => setShowModal(false);
   const handleShow = () => setShowModal(true);
 
@@ -38,13 +37,16 @@ function ProjectCards(props) {
         size="lg"
         aria-labelledby="contained-modal-title-vcenter"
         centered
+        dialogClassName="modal-fullscreen" // Thêm class tùy chỉnh
       >
         <Modal.Header closeButton>
           <Modal.Title id="contained-modal-title-vcenter">
             {props.title}
           </Modal.Title>
         </Modal.Header>
-        <Modal.Body>{props.detailComponent}</Modal.Body>
+        <Modal.Body className="modal-body-scroll">
+          {props.detailComponent}
+        </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
             Close
