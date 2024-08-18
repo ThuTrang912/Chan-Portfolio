@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chan-Portfolio/static/css/main.fd9a74ca.css",
-    "main.js": "/Chan-Portfolio/static/js/main.e10adba3.js",
+    "main.js": "/Chan-Portfolio/static/js/main.ce2a3047.js",
     "static/js/453.f7bb8108.chunk.js": "/Chan-Portfolio/static/js/453.f7bb8108.chunk.js",
     "static/media/SmartTripod.png": "/Chan-Portfolio/static/media/SmartTripod.19067d2dde73df149825.png",
     "static/media/MemoryGame.png": "/Chan-Portfolio/static/media/MemoryGame.2a77e9a86f7380bf8578.png",
@@ -18,11 +18,11 @@
     "index.html": "/Chan-Portfolio/index.html",
     "static/media/logo.svg": "/Chan-Portfolio/static/media/logo.0aa3e07f821474295edc6b63fc3564b3.svg",
     "main.fd9a74ca.css.map": "/Chan-Portfolio/static/css/main.fd9a74ca.css.map",
-    "main.e10adba3.js.map": "/Chan-Portfolio/static/js/main.e10adba3.js.map",
+    "main.ce2a3047.js.map": "/Chan-Portfolio/static/js/main.ce2a3047.js.map",
     "453.f7bb8108.chunk.js.map": "/Chan-Portfolio/static/js/453.f7bb8108.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9a74ca.css",
-    "static/js/main.e10adba3.js"
+    "static/js/main.ce2a3047.js"
   ]
 }
