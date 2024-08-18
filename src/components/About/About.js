@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Particle from '../Particle'; // Ensure this component exists
 import AboutCard from './AboutCard'; // Ensure this component exists
 import laptopImg from '../../Assets/dev_focus.svg'; // Ensure the image path is correct
-import mapImg from '../../Assets/person-map2.png'; // Ensure the image path is correct
+import mapImg from '../../Assets/person-map3.png'; // Ensure the image path is correct
 import './../../style.css'; // Ensure this file exists
 
 const About = () => {

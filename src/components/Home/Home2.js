@@ -31,24 +31,28 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are developing
+              My field of Interest's are developing<span> </span>
               <i>
                 <b className="blue">
                   Software such as Web Apps and Mobile Apps
                 </b>{' '}
                 and I am especially interested in integrating
-                <b className="blue">IoT and AI.</b>
+                <b className="blue"> IoT and AI.</b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for product development
-              using various <b className="blue">Frameworks </b> and
+              using various
               <i>
-                <b className="blue">Technologies </b>
+                <b className="blue"> Frameworks </b>
+              </i>
+              and
+              <i>
+                <b className="blue"> Technologies </b>
               </i>
               like
               <i>
-                <b className="blue">React.js and Laravel</b>
+                <b className="blue"> React.js and Laravel</b>
               </i>
             </p>
           </Col>
