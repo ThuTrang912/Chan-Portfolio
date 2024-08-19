@@ -116,6 +116,7 @@ const ECCMemo = () => {
         <li>
           <strong>Notes Dashboard:</strong> Displays a list of notes with
           options to create, edit, or delete.
+          <br />
           <img
             src="https://github.com/user-attachments/assets/62472669-faf8-4cc8-ad02-9e83061b721a"
             alt="Notes Dashboard"
@@ -126,6 +127,7 @@ const ECCMemo = () => {
         <li>
           <strong>Note Editor:</strong> Allows users to input and modify note
           content and set priority levels.
+          <br />
           <img
             src="https://github.com/user-attachments/assets/5eedd2f7-6b10-416c-9c07-12cba8b30355"
             alt="Note Editor"
