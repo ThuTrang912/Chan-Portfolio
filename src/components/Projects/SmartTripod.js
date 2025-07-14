@@ -6,8 +6,13 @@ const SmartTripod = () => {
     <div>
       <h2>SmartTripod</h2>
       <img
-        src={require('https://github.com/user-attachments/assets/7e1d381c-5d22-425c-8d0f-a1a3c5f0aefe')}
+        src="https://github.com/user-attachments/assets/7e1d381c-5d22-425c-8d0f-a1a3c5f0aefe"
         alt="SmartTripod Project"
+        style={{ width: '100%', height: 'auto', marginBottom: '16px' }}
+      />
+      <img
+        src="https://raw.githubusercontent.com/ThuTrang912/Chan-Portfolio/main/src/Assets/divice.png"
+        alt="SmartTripod Device"
         style={{ width: '100%', height: 'auto' }}
       />
       <p>
