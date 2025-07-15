@@ -7,6 +7,7 @@ import XCloset from './XCloset';
 import SmartTripod from './SmartTripod';
 import ECCMemo from './ECCMemo';
 import MemoryGame from './MemoryGame';
+import HydroCare from './HydroCare';
 
 function Projects() {
   return (
@@ -20,9 +21,19 @@ function Projects() {
           Here are a few projects I'm working on.
         </p>
         <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={require('./../../Assets/hydrocare.png')}
+              isBlog={false}
+              title="HydroCare"
+              description="HydroCare helps users manage daily water intake, providing reminders, tracking, and health insights for optimal hydration."
+              ghLink="https://github.com/ThuTrang912/HydroCare"
+              detailComponent={<HydroCare />}
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require('./../../Assets/SmartTripod.png')}
+              imgPath={require('./../../Assets/smartTripod2.png')}
               isBlog={false}
               title="SmartTripod"
               description="The AI-based automatic tracking camera system reduces the burden of manual operation in capturing sports."
@@ -74,6 +85,8 @@ function Projects() {
               detailComponent={<MemoryGame />}
             />
           </Col>
+
+          
         </Row>
       </Container>
     </Container>
