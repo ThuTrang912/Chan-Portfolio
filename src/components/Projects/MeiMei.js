@@ -45,22 +45,40 @@ const MeiMei = () => {
       <h4>App Interface</h4>
       <img
         src="https://github.com/user-attachments/assets/915a3bfe-1f99-4a57-9324-219809b12b5a"
-        style={{ width: '100%', height: 'auto' }}
+        style={{ width: '50%', height: 'auto', display: 'block', marginLeft: 'auto', marginRight: 'auto' }}
         alt="MeiMei UI"
       />
       <h4>User Interface</h4>
       <img
         src="https://github.com/ThuTrang912/MeiMei/assets/129019073/9ac9863e-6959-4e6b-8cb1-73375855f521"
-        style={{ width: '100%', height: 'auto' }}
-        alt="Admin Side"
+        style={{ width: '50%', height: 'auto', display: 'block', marginLeft: 'auto', marginRight: 'auto' }}
+        alt="User Side"
       />
       <h4>Admin Interface</h4>
       <img
         src="https://github.com/user-attachments/assets/a73ec86d-17cd-41ec-9c04-21d81617ea7b"
-        style={{ width: '100%', height: 'auto' }}
+        style={{ width: '50%', height: 'auto', display: 'block', marginLeft: 'auto', marginRight: 'auto' }}
         alt="Admin Side"
       />
-
+      <h3>Demo Video</h3>
+      <div style={{ 
+        position: 'relative', 
+        width: '100%', 
+        maxWidth: '400px', // hoặc 500px tùy ý
+        margin: '20px auto',
+        borderRadius: '8px',
+        overflow: 'hidden',
+        boxShadow: '0 4px 8px rgba(0,0,0,0.1)'
+      }}>
+        <video
+          controls
+          style={{ width: '100%', height: 'auto' }}
+          poster={require('./../../Assets/MeiMei.png')}
+        >
+          <source src="https://github.com/user-attachments/assets/87214c87-2848-4559-a67b-494de2ab4722" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
       <h3>Technologies Used</h3>
       <ul>
         <li>Figma</li>

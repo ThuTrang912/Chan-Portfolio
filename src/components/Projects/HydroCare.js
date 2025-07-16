@@ -97,7 +97,7 @@ const HydroCare = () => {
       <h3>System Architecture</h3>
       <img
         src={require('./../../Assets/hydrocare-system-architecture.png')}
-        style={{ width: '100%', height: 'auto' }}
+        style={{ width: '75%', height: 'auto', display: 'block', marginLeft: 'auto', marginRight: 'auto' }}
         alt="HydroCare System Architecture"
       />
       <h5>3D-Printed Enclosure</h5>

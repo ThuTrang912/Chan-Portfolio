@@ -67,11 +67,17 @@ const XCloset = () => {
       <h4>App Interface</h4>
       <img
         src="https://github.com/ThuTrang912/XCloset/assets/129019073/d23640ef-839f-4ba2-8ecc-f27bce76fb77"
-        style={{ width: '100%', height: 'auto' }}
+        style={{
+          width: '50%',
+          height: 'auto',
+          display: 'block',
+          marginLeft: 'auto',
+          marginRight: 'auto'
+        }}
         alt="XCloset UI"
       />
 
-<h3>Demo Video</h3>
+      <h3>Demo Video</h3>
       <div style={{ 
         position: 'relative', 
         width: '100%', 
