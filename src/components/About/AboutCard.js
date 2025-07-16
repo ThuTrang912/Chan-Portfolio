@@ -19,8 +19,7 @@ const AboutCard = () => {
             I attended Danang University of Science and Technology for a year
             and engaged in various volunteer activities.
             <br />
-            In 2019, I moved to Japan and began a new journey. Currently, I am
-            an IT Development Research Student at ECC College of Multimedia.
+            In 2019, I moved to Japan and began a new journey. Currently, I have graduated from ECC College of Multimedia as an IT Development Research Student.
             <br />
             <br />
             Apart from programming, here are some activities that I love:
