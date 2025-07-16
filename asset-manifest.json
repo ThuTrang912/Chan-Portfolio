@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chan-Portfolio/static/css/main.fd9a74ca.css",
-    "main.js": "/Chan-Portfolio/static/js/main.2981d9c9.js",
+    "main.js": "/Chan-Portfolio/static/js/main.15da5853.js",
     "static/js/453.f7bb8108.chunk.js": "/Chan-Portfolio/static/js/453.f7bb8108.chunk.js",
     "static/media/demonstration.mp4": "/Chan-Portfolio/static/media/demonstration.c6a2bf728ef1324e74ca.mp4",
     "static/media/hydrocare-demo.mp4": "/Chan-Portfolio/static/media/hydrocare-demo.30cf87b415727eed7458.mp4",
@@ -15,8 +15,8 @@
     "static/media/EntrySheet-MynaviBox.pdf": "/Chan-Portfolio/static/media/EntrySheet-MynaviBox.6675bf159a7e8b08dda4.pdf",
     "static/media/smarttripod-mode-change.png": "/Chan-Portfolio/static/media/smarttripod-mode-change.b061f9101585c3bf52da.png",
     "static/media/avatar.png": "/Chan-Portfolio/static/media/avatar.40f5989115ce22e837a8.png",
-    "static/media/hydrocare-system-architecture.png": "/Chan-Portfolio/static/media/hydrocare-system-architecture.a0d965ee73ac783c8d6e.png",
     "static/media/smarttripod-system-configuration-diagram.png": "/Chan-Portfolio/static/media/smarttripod-system-configuration-diagram.4cb0e720931f10e82690.png",
+    "static/media/hydrocare-system-architecture.png": "/Chan-Portfolio/static/media/hydrocare-system-architecture.61b7a107e94f702cea42.png",
     "static/media/hydrocare-use.png": "/Chan-Portfolio/static/media/hydrocare-use.4c8edd888eb1c2774c6b.png",
     "static/media/home-bg.jpg": "/Chan-Portfolio/static/media/home-bg.ed275a6507f721197c53.jpg",
     "static/media/hydrocare-use-2.png": "/Chan-Portfolio/static/media/hydrocare-use-2.e759294bdd696982637f.png",
@@ -27,11 +27,11 @@
     "index.html": "/Chan-Portfolio/index.html",
     "static/media/logo.svg": "/Chan-Portfolio/static/media/logo.0aa3e07f821474295edc6b63fc3564b3.svg",
     "main.fd9a74ca.css.map": "/Chan-Portfolio/static/css/main.fd9a74ca.css.map",
-    "main.2981d9c9.js.map": "/Chan-Portfolio/static/js/main.2981d9c9.js.map",
+    "main.15da5853.js.map": "/Chan-Portfolio/static/js/main.15da5853.js.map",
     "453.f7bb8108.chunk.js.map": "/Chan-Portfolio/static/js/453.f7bb8108.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9a74ca.css",
-    "static/js/main.2981d9c9.js"
+    "static/js/main.15da5853.js"
   ]
 }
