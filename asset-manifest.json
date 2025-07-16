@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chan-Portfolio/static/css/main.fd9a74ca.css",
-    "main.js": "/Chan-Portfolio/static/js/main.cc2da579.js",
+    "main.js": "/Chan-Portfolio/static/js/main.ec00d7cf.js",
     "static/js/453.f7bb8108.chunk.js": "/Chan-Portfolio/static/js/453.f7bb8108.chunk.js",
     "static/media/demonstration.mp4": "/Chan-Portfolio/static/media/demonstration.c6a2bf728ef1324e74ca.mp4",
     "static/media/hydrocare-demo.mp4": "/Chan-Portfolio/static/media/hydrocare-demo.30cf87b415727eed7458.mp4",
@@ -27,11 +27,11 @@
     "index.html": "/Chan-Portfolio/index.html",
     "static/media/logo.svg": "/Chan-Portfolio/static/media/logo.0aa3e07f821474295edc6b63fc3564b3.svg",
     "main.fd9a74ca.css.map": "/Chan-Portfolio/static/css/main.fd9a74ca.css.map",
-    "main.cc2da579.js.map": "/Chan-Portfolio/static/js/main.cc2da579.js.map",
+    "main.ec00d7cf.js.map": "/Chan-Portfolio/static/js/main.ec00d7cf.js.map",
     "453.f7bb8108.chunk.js.map": "/Chan-Portfolio/static/js/453.f7bb8108.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9a74ca.css",
-    "static/js/main.cc2da579.js"
+    "static/js/main.ec00d7cf.js"
   ]
 }
