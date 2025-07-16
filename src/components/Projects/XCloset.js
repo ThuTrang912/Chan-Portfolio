@@ -6,7 +6,7 @@ const XCloset = () => {
     <div>
       <h2>XCloset</h2>
       <img
-        src={require('./../../Assets/XCloset.png')}
+        src={require('./../../Assets/xcloset.png')}
         alt="XCloset Project"
         style={{ width: '100%', height: 'auto' }}
       />
@@ -70,6 +70,27 @@ const XCloset = () => {
         style={{ width: '100%', height: 'auto' }}
         alt="XCloset UI"
       />
+
+<h3>Demo Video</h3>
+      <div style={{ 
+        position: 'relative', 
+        width: '100%', 
+        maxWidth: '800px', 
+        margin: '20px auto',
+        borderRadius: '8px',
+        overflow: 'hidden',
+        boxShadow: '0 4px 8px rgba(0,0,0,0.1)'
+      }}>
+        <video
+          controls
+          style={{ width: '100%', height: 'auto' }}
+          poster={require('./../../Assets/xcloset.png')}
+        >
+          <source src="https://github.com/user-attachments/assets/6a51689c-8e1a-4599-9143-268925e28f46" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
 
       <h3>Technologies Used</h3>
       <ul>

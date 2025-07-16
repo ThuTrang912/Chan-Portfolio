@@ -44,7 +44,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require('./../../Assets/XCloset.png')}
+              imgPath={require('./../../Assets/xcloset.png')}
               isBlog={false}
               title="XCloset"
               description="The closet management application effectively addresses the tracking and usage of clothing."
