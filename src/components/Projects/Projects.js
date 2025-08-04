@@ -8,6 +8,7 @@ import SmartTripod from './SmartTripod';
 import ECCMemo from './ECCMemo';
 import MemoryGame from './MemoryGame';
 import HydroCare from './HydroCare';
+import Manabi from './Manabi';
 
 function Projects() {
   return (
@@ -21,7 +22,18 @@ function Projects() {
           Here are a few projects I'm working on.
         </p>
         <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={require('./../../Assets/manabi.png')}
+              isBlog={false}
+              title="Manabi"
+              description="Manabi is a web app designed for vocabulary learning using flashcards, combined with pronunciation audio and AI-powered categorization. It helps users enhance their language skills by listening to correct pronunciations and organizing words efficiently through intelligent classification."
+              ghLink="https://github.com/ThuTrang912/Manabi"
+              detailComponent={<Manabi />}
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require('./../../Assets/hydrocare.png')}
               isBlog={false}
@@ -85,8 +97,6 @@ function Projects() {
               detailComponent={<MemoryGame />}
             />
           </Col>
-
-          
         </Row>
       </Container>
     </Container>
